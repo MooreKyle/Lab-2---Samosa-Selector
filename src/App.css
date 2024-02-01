@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+/* New styles for .samosa */
+.samosa {
+  height: 15em; /* Sets the height of the samosa image */
+  padding: 1.5em; /* Adds padding around the image */
+  margin: 0 auto; /* Centers the image horizontally */
+  display: block; /* Ensures the image is block-level to apply margin correctly */
+  cursor: pointer; /* Changes the cursor to a pointer when hovering over the image */
+}
